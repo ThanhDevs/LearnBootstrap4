@@ -20,7 +20,7 @@ http://getbootstrap.com/
 
 ## Phiên bản sử dụng
 
-+ v4.0
++ v4.1
 
 ## Kiến thức cần có để học Bootstrap 
 
@@ -32,9 +32,11 @@ http://getbootstrap.com/
 ## Công cụ phát triển
 
 * Những phần mềm cơ bản để viết code 
- 1. Visual Studio Code
+ 1. Visual Studio Code (Khuyến khích)
  2. Brackets
  3. ATOM
+ 4. Sublime Text
+ 5. Notepad++
 
 * Trình duyệt
  1. Chrome(Gợi ý)
