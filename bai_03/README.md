@@ -16,7 +16,7 @@ https://getbootstrap.com/docs/4.0/utilities/text/
 ## Bài tập thực hành
 
 ~~~html
-<h2 class="font-weight-normal display-4"> Tự Học Bootstrap4 </h2>
+<h2 class="font-weight-normal display-4"> Khóa Học Bootstrap4 </h2>
 <div class="bg-light">  Hoan nghên bạn đến với { ThanhDevs Chanel }  </div>
 <div class="text-center bg-light font-weight-bold">  Hoan nghên bạn đến với { ThanhDevs Chanel }  </div>
 <div class="text-left bg-light">  Hoan nghên bạn đến với { ThanhDevs Chanel } </div>

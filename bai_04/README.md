@@ -1,3 +1,6 @@
+
+## Chào mừng Các bạn đến với { HCJ TEAM }
+
 Thay đổi kích thước phần tử
 ===========================
 
@@ -18,13 +21,14 @@ https://getbootstrap.com/docs/4.0/utilities/sizing/
         width: 200px;
         height: 200px;
         background: #ddd;
-        margin-bottom: 5px;
+        margin-bottom: 15px;
     }
 </style>
 
 <div class="my-container">
     <div class="bg-primary w-25 h-50"> ThanhDevs Chanel </div>
 </div>
+
 <div class="my-container">
     <div class="bg-success w-75 h-100"> ThanhDevs Chanel </div>
 </div>

@@ -6,8 +6,8 @@ Thiết lập màu sắc cho phần tử
 ## Nội dung chính trong bài 02
 
 * Màu sắc tích hợp trong Bootstrap4
-* Màu chư: text-*
-* Mầu nền: bg-*
+* Màu chữ: text-*
+* Màu nền: bg-*
 
 Website tham khảo：
 
